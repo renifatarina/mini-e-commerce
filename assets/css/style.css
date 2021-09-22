@@ -1,0 +1,18 @@
+ul.nav.a {
+    background-color: #FF8303;   
+}
+
+ul.nav.a a{
+    color: white ;  
+}
+nav.navbar {
+    background-color: #FFB740 !important ;
+}
+
+ul.nav.b {
+    background-color: #FDE49C;
+}
+
+ul.nav.b a {
+    color: black;
+}
